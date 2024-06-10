@@ -6,7 +6,7 @@ import sys
 me="Mahmoud_NEW"
 
 conf = {'bootstrap.servers': '34.68.55.43:9094,34.136.142.41:9094,34.170.19.136:9094',
-        'group.id': "new_group",
+        'group.id': 'G1',
         'auto.offset.reset': 'smallest'}
 
 consumer = Consumer(conf)

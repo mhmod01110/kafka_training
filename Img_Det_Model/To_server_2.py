@@ -5,7 +5,6 @@ import random
 import json
 import cv2
 import numpy as np
-from PIL import Image, ImageDraw, ImageFont
 
 
 # YOLO model files
